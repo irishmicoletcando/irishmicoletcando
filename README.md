@@ -38,11 +38,9 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Github Stats" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
-  <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff" /></a>
+    <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Github Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
+  <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 <br/>
 
 <a href="https://github.com/irishmicoletcando/github-readme-activity-graph" target="_blank"><img alt="Irish Micole Cando's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=irishmicoletcando&bg_color=0D1117&color=ffffff&line=528AAE&point=FFFFFF&hide_border=true" /></a>
