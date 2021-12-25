@@ -22,7 +22,6 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 </p>
 
-## Connect with me:
 <p align="left">
 <h2 align="left">Connect with me:</h2>
 <a href = "https://www.linkedin.com/in/irish-micole-cando-851714225/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin-account" height="30" width="30"/></a>
