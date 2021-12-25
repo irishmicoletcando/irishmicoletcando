@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I am Irish Micole Cando! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" height="225" width="375"> 
+<img align="right" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" height="225" width="300"> 
 
 ## 🙋‍♂️ About Me
 
