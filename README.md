@@ -26,7 +26,7 @@
 <a href = "https://www.linkedin.com/in/irish-micole-cando-851714225/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin-account" height="30" width="30"/></a>
 <a href = "https://www.facebook.com/ayreeeshcando" target="_blank"> <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook-account" height="30" width="30"/></a>
 <a href = "https://twitter.com/ayreeeshcando" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="twitter-account" height="30" width="30"/></a>
-<a href = "https://www.instagram.com/ayreshcando/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram-account" height="30" width="30"/></a>
+<a href = "https://www.instagram.com/ayresh__/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram-account" height="30" width="30"/></a>
 </p>
 
 
