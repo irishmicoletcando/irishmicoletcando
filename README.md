@@ -15,11 +15,11 @@
 
 <!-- stats -->
 <div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
-   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Github Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
+  <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff" /></a>
 </div>
 <div align="center"> 
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
 </div>
 
 <!-- socials -->
