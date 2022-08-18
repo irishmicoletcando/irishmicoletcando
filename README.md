@@ -19,7 +19,7 @@
   <a href="https://github.com/irishmicoletcando/github-readme-stats" target="_blank"><img alt="Irish Micole Cando's Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff" /></a>
 </div>
 <div align="center"> 
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=FFFFFF&sideNums=FFFFFF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
 </div>
 
 <!-- socials -->
