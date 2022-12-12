@@ -15,7 +15,7 @@
 
 <!-- stats -->
 <div align="center">
-   <img alt="Irish Micole Cando's Github Stats" align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
+   <img alt="Irish Micole Cando's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
   <img alt="Irish Micole Cando's Top Languages" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irishmicoletcando&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=ffffff" /></a>
 </div>
 <div align="center"> 
