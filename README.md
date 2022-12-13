@@ -20,7 +20,7 @@
 </div>
 <div align="center"> 
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=FFFFFF&sideNums=FFFFFF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
-<!--   <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=irishmicoletcando&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=java,dart&title_color=FFFFFF&icon_color=0D1117&text_color=FFFFFF&bg_color=0D1117" /> -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=irishmicoletcando&v=2&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=java,dart&title_color=FFFFFF&icon_color=0D1117&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
 <!-- socials -->
