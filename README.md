@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Irish+Micole+Cando.&center=true&size=30">
   </a>
 </h1>
-<p align="center">I am a BS Computer Engineering sophomore student at Polytechnic University of the Philippines. I’m interested in Web Development and Software Engineering and currently learning Front-End Development and Python.</p>
+<p align="center">I am a BS Computer Engineering sophomore student at Polytechnic University of the Philippines. I’m interested in Web Development and currently learning Front-End Development and Python.</p>
 
 <!-- languages and tools -->
 <div align="center">
