@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Irish+Micole+Cando.&center=true&size=30">
   </a>
 </h1>
-<p align="center">I am a BS Computer Engineering student at Polytechnic University of the Philippines. I’m interested in Data Engineering and currently learning SQL and Python.</p>
+<p align="center">I am a BS Computer Engineering student at Polytechnic University of the Philippines. I am interested in data engineering and software engineering and am currently focused on data engineering.</p>
 
 <!-- languages and tools -->
 <div align="center">
@@ -11,7 +11,11 @@
   <span><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="25px" /></span>
   <span><img src="https://img.shields.io/badge/python-ffd43b.svg?style=for-the-badge&logo=python&logoColor=306998" height="25px" /></span>
-  <span><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/ height="25px"></span>
+  <span><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"></span>
+  <span><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"></span>
+  <span><img src="https://img.shields.io/badge/postgresql-555555.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/></span>
+  <span><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="25px"></span>
+  <span><img src="https://img.shields.io/badge/ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" height="25px"></span>
 </div>
 
 <!-- stats -->
@@ -26,12 +30,12 @@
 
 <!-- socials -->
 <div>
-  <h2>Connect with me:</h2>
+  <h3>Connect with me:</h3>
   <a target="_blank" href="https://www.facebook.com/ayreeeshcando/">
-      <img src="https://img.shields.io/badge/irish_micole_cando-D3D3D3.svg?style=for-the-badge&logo=facebook&logoColor=white%22%20height=%2225" />
+      <img src="https://img.shields.io/badge/facebook-D3D3D3.svg?style=for-the-badge&logo=facebook&logoColor=white%22%20height=%2225" />
    </a>
   <a target="_blank" href="https://www.linkedin.com/in/irish-micole-cando-851714225/">
-    <img src="https://img.shields.io/badge/irish_micole_cando-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20height=%2225" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20height=%2225" />
   </a>
   <br>
 </div>
