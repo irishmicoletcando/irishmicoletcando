@@ -31,8 +31,8 @@ As a driven BS Computer Engineering student at Polytechnic University of the Phi
 
 <!-- stats -->
 <div align="center">
-   <img alt="Irish Micole Cando's Github Stats" width="450" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
-   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=FFFFFF&sideNums=FFFFFF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
+   <img alt="Irish Micole Cando's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=irishmicoletcando&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE"/></a>
+   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=irishmicoletcando&hide_border=true&show_icons=true&currStreakNum=FFFFFF&sideNums=FFFFFF&border=true&currStreakLabel=FFFFFF&background=0D1117&sideLabels=FFFFFF&dates=58A6FF" />
 </div>
 
 
