@@ -5,11 +5,11 @@
 </h1>
 <p align="center">I am a BS Computer Engineering student at Polytechnic University of the Philippines. I am interested in data engineering and software engineering and am currently focused on data engineering.</p>
 
-<div align="center">
+# <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/philippines/irishmicoletcando.svg)](https://user-badge.committers.top/philippines/irishmicoletcando)
+# [![committers.top badge](https://user-badge.committers.top/philippines/irishmicoletcando.svg)](https://user-badge.committers.top/philippines/irishmicoletcando)
 
-</div> 
+# </div> 
 
 <!-- languages and tools -->
 <div align="center">
