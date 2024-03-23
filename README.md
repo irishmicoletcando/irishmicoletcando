@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white%22%20height=%2225" />
   </a>
 </div>
+<br>
+
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/philippines/irishmicoletcando.svg)](https://user-badge.committers.top/philippines/irishmicoletcando)
+
+</div> 
 
 ### 🤓 Who?
 As a driven BS Computer Engineering student at Polytechnic University of the Philippines, I am focused on becoming a skilled data engineer. In my free time, I enjoy watching detective movies or working on projects related to the topics I'm currently learning, particularly in data engineering.
