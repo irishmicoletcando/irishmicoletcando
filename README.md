@@ -22,7 +22,7 @@
 </div> 
 
 ### 🤓 Who?
-As a driven BS Computer Engineering student specialized in Big Data at Polytechnic University of the Philippines, I am focused on becoming a skilled data engineer. In my free time, I enjoy watching detective movies, taking online courses, or working on projects related to the topics I'm currently learning, particularly in data engineering.
+I am a driven BS Computer Engineering student specializing in Big Data at the Polytechnic University of the Philippines, aspiring to become a data engineer. In my free time, I enjoy watching detective movies, taking online courses, or working on projects related to the topics I'm currently learning, particularly in data engineering.
 
 ### 💻 Languages and Tools
 <div align="center">
