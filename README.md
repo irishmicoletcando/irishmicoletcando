@@ -2,7 +2,7 @@
   <!-- <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Irish.&center=true&size=30">
    </a> -->
-  Hi! I'm Irish 👋
+  Hi! I'm Irish! 👋
 </h1>
 
 <div align="center">
