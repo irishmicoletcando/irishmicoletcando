@@ -15,24 +15,22 @@
 </div>
 <br>
 
-<div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/philippines/irishmicoletcando.svg)](https://user-badge.committers.top/philippines/irishmicoletcando)
-
-</div> 
-
 ### 🤓 Who?
-I am a third-year BS Computer Engineering student specializing in Big Data at the Polytechnic University of the Philippines, aspiring to become a data engineer. In my free time, I enjoy watching detective movies, taking online courses, or working on projects related to the topics I'm currently learning, particularly in data engineering.
+I'm currently taking up BS Computer Engineering at PUP. In my free time, I enjoy watching detective movies, taking online courses, or working on web development projects.
 
 ### 💻 Languages and Tools
 <div align="center">
   <span><img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" height="27px" /></span>
   <span><img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="27px" /></span>
-  <span><img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="27px" /></span>
+  <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="27px" /></span>
+  <span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="27px" /></span>
+  <span><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="27px" /></span>
+  <span><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="27px" /></span>
+  <span><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="27px" /></span>
   <span><img src="https://img.shields.io/badge/python-ffd43b.svg?style=for-the-badge&logo=python&logoColor=306998" height="27px" /></span>
   <span><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="27px"></span>
   <span><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="27px"></span>
-  <span><img src="https://img.shields.io/badge/postgresql-555555.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="27px"/></span>
+  <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="27px"/></span>
   <span><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height="27px"></span>
   <span><img src="https://img.shields.io/badge/ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" height="27px"></span>
 </div>
