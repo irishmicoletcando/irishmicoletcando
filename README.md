@@ -20,7 +20,7 @@
 <br>
 
 ### 🤓 Who?
-I'm currently taking up BS Computer Engineering at PUP. In my free time, I enjoy watching detective movies, taking online courses, or working on web development projects.
+I am a BS Computer Engineering graduate at PUP. In my free time, I enjoy watching detective movies, taking online courses, or working on web development projects.
 
 ### 💻 Languages and Tools
 <div align="center">
